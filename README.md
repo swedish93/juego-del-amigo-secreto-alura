@@ -2,6 +2,9 @@
 
 ![Imagen principal](https://github.com/swedish93/juego-del-amigo-secreto-alura/blob/main/assets/amigo-secreto.png)
 
+<h2>GitHub pages</h2>
+
+Este es el link de la aplicacion: https://swedish93.github.io/juego-del-amigo-secreto-alura/
 
 <h2>Descripción</h2>
 
