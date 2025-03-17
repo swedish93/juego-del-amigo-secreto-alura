@@ -42,5 +42,16 @@ JavaScript, HTML, CSS.
 
 Este proyecto está bajo la [Licencia MIT](LICENSE). Eres libre de usarlo, modificarlo y distribuirlo.
 
+<h2>Créditos</h2>
+
+AluraLatam G8 Logica de programación
+
+<h2>Estado del proyecto</h2>
+
+En los requerimientos especificos del challenge, se encuentra finalizado.
+
+
+
+
 
 
