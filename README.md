@@ -4,12 +4,12 @@
 
 <h2>GitHub pages</h2>
 
-Este es el link de la aplicacion: https://swedish93.github.io/juego-del-amigo-secreto-alura/
+Link : https://swedish93.github.io/juego-del-amigo-secreto-alura/
 
 <h2>Descripción</h2>
 
 Lo siguiente es un challenge obligatorio en el curso Lógica de programación de AluraLatam; 
-mediante el cual se ponen aprueba los conceptos fundamentales revisados en las aulas de Pricipiante en programación
+mediante el cual se ponen aprueba los conceptos fundamentales revisados en las aulas de Principiante en programación
 como: 
   -Arrays
   
@@ -47,11 +47,11 @@ Este proyecto está bajo la [Licencia MIT](LICENSE). Eres libre de usarlo, modif
 
 <h2>Créditos</h2>
 
-AluraLatam G8 Logica de programación
+AluraLatam G8 Lógica de programación
 
 <h2>Estado del proyecto</h2>
 
-En los requerimientos especificos del challenge, se encuentra finalizado.
+En los requerimientos específicos del challenge, se encuentra finalizado.
 
 
 
